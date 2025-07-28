@@ -82,8 +82,6 @@ The system achieves strong results, with the LightGBM model showing **substantia
 
 This ASAG system showcases a powerful, multi-faceted approach to short answer grading, blending classical NLP techniques with modern machine learning to approximate human-level evaluation.
 
-Let me know if you’d like this adapted for a README or presentation format!
-You said:
 yes readme
 ChatGPT said:
 
